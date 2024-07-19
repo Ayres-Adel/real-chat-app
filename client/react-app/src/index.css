@@ -1,0 +1,32 @@
+/* App.css */
+
+.App {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  input, button {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  h1 {
+    font-size: 16px;
+    padding: 8px;
+  }
+  
+  .sent {
+    color: green;
+  }
+  
+  .received {
+    color: blue;
+  }
+  
